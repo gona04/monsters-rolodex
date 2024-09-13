@@ -1,4 +1,6 @@
+//imp
 import React from 'react';
+//imp realated to the client-side web
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
